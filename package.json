@@ -1,0 +1,25 @@
+{
+  "name": "react-and-java-express-lectures-6try3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarcusKristoffersen/react-and-java-express-lectures-6try3.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MarcusKristoffersen/react-and-java-express-lectures-6try3/issues"
+  },
+  "homepage": "https://github.com/MarcusKristoffersen/react-and-java-express-lectures-6try3#readme",
+  "devDependencies": {
+    "concurrently": "^7.0.0",
+    "husky": "^7.0.4",
+    "prettier": "^2.5.1"
+  }
+}
